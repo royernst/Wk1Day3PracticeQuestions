@@ -187,7 +187,7 @@ namespace Wk1Day3PracticeQuestions
 
                 decimal mean = (num1 + num2 + num3 + num4) / 4;
 
-                Console.WriteLine("The mean of your 4 numbers is: " + mean);
+                Console.WriteLine("The mean is: " + mean);
             } else
             {
                 Console.WriteLine("You've input an incorrect number.  Try again later.");
